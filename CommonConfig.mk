@@ -100,6 +100,3 @@ BUILD_KERNEL := true
 
 # Include build helpers for QCOM proprietary
 -include vendor/qcom/proprietary/common/build/proprietary-build.mk
-
-# SELinux
-include device/sony/sepolicy/sepolicy.mk
